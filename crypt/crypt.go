@@ -1,4 +1,4 @@
-package crypt
+package sdk
 
 import (
 	"crypto/aes"
