@@ -1,4 +1,4 @@
-package sdk
+package validator
 
 import (
 	"errors"

@@ -1,4 +1,4 @@
-package sdk
+package jwt
 
 import (
 	"fmt"
